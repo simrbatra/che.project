@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Local Water Body Field Trip</title>
+	<link rel="stylesheet" type="text/css" href="2.css">
+</head>
+<body>
+	<header>
+		<h1>Local Water Body Field Trip</h1>
+		<nav>
+			<ul>
+				<li><a href="#about">About</a></li>
+				<li><a href="#assessment">Assessment</a></li>
+				<li><a href="#findings">Findings</a></li>
+				<li><a href="#contact">Contact</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section id="about">
+			<h2>About</h2>
+			<p>The purpose of this project is to conduct a detailed assessment of a local body of water and its surrounding land. This project aims to study the water quality, biodiversity and land use practices to better understand the health of the system and identify any potential environment threats. The fieldwork produces will involve collecting water and soil sampleconducting survey of the flora and fauna, and documenting land use practices. The data collected will be analysed ans presented in various formats, including graphs maps and photographs. The project will servr as a valuable resources for researches and photomakers to make informed decisions about managing localwater resources. </p>
+		</section>
+		<section id="objective">
+			<h2>Objective</h2>
+			<p>Describe the methods and equipment used for the objective.</p>
+			<ul>
+				<li>Water quality testing</li>
+				<p>Drinking water quality varies from place to place, depending on the condition of the source water from which it is drawn and the treatment it receives, but it must meet U.S. Environmental Protection Agency (EPA) regulations. Community water systems follow the rules set forth by the Safe Drinking Water Act (SDWA).external icon Many states enforce their own drinking water standards that are at least as protective as EPA’s national standards. The SDWA rules include guidelines for drinking water quality, water testing schedules, and water testing methods.</p>
+				<li>Land and vegetation survey</li>
+				<p>Traditional surveying equipment may be hindered by huge trees or other barriers while land surveyors are on the ground. Because of high slopes, inconvenient streams, or any other man-made or natural characteristics, they may be unable to traverse the area. These characteristics, when combined, may make surveying on the ground difficult, if not impossible, especially in undeveloped areas. There are, however, ways to get over these roadblocks, allowing surveyors to generate accurate surveys.</p>
+				<li>Animal observation</li>
+				<p>The producer or animal caretaker, in cooperation with the local veterinarian, is the first line of defense in protecting the herd from the spread of illness and diseases, beginning with the detection of a sick animal. Most farmers know their animals very well and can notice even subtle changes in an animal’s behavior such as isolation, loss of appetite, lethargy, etc., which can be the first indications of an illness or injury. Animals exhibiting these minor changes in behavior should be monitored closely and a veterinarian should be contacted if the signs do not disappear in a short period of time.</p>
+			</ul>
+		</section>
+		<section id="findings">
+			<h2>Findings</h2>
+			<p>The outcome of this project will be as follows :
+
+				
+			A detail assessment of the water quality , biodiversity, and land use practices in the victinicity of the land body of water. </p>
+			<p>Identification of any potential environmental threats and recommendation for their migrations.</p>
+			<p>A database of flora and fauna species in the vicnity of the water body.</p>
+			<p>A resources for researches and policy makers to make informed decisions about managing local water  resources.</p>
+			<ol>
+				<li>Water quality is good overall, with some areas of concern near the shore.</li>
+				<li>The land surrounding the water body has low biodiversity and is heavily impacted by human activity.</li>
+				<li>Several species of birds and fish were observed, including some that are rare or threatened.</li>
+			</ol>
+		</section>
+		<section id="contact">
+			<h2>Contact</h2>
+			<p>Registration no. : 12219921 <br>Prabhat Singh <br>Roll no. : 19</p>
+			<address>
+				
+				9905625531</p>
+				<p>Email: prabhatpop0604@gmail.com</p>
+			</address>
+		</section>
+	</main>
+	<footer>
+		<p>&copy; 2023 Local Water Body Field Trip</p>
+	</footer>
+</body>
+</html>
